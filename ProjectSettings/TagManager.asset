@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Wall
   - Score
+  - Despawn
   layers:
   - Default
   - TransparentFX
